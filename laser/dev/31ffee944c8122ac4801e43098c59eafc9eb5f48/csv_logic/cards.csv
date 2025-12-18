@@ -193,3 +193,4 @@
 "BeeSniper_abi","sc/ui.sc","attack_icon","BeeSniper",,2,,"skill","BeeSniperWeapon",,,,"common","TID_BEE_SNIPER_WEAPON","TID_STAT_MAX_DAMAGE",,"genicon_damage",,,
 "BeeSniper_ulti","sc/ui.sc","ulti_icon","BeeSniper",,3,,"skill","BeeSniperUlti",,,,"common","TID_BEE_SNIPER_ULTI","TID_STAT_DAMAGE_PER_BOMB",,"genicon_damage",,,
 "BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"aoe_regenerate",,200,,,"common","TID_SPEC_ABI_HOOK",,,"genicon_health",,,
+"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"steal_souls2",,50,12,,"common","TID_SPEC_ABI_STEAL_SOULS2",,,"genicon_health",,,
