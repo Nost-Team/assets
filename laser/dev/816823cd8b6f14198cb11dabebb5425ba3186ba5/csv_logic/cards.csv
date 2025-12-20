@@ -192,5 +192,5 @@
 "BeeSniper_hp","sc/ui.sc","health_icon","BeeSniper",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "BeeSniper_abi","sc/ui.sc","attack_icon","BeeSniper",,2,,"skill","BeeSniperWeapon",,,,"common","TID_LONG_RANGE_SHOTGUN","TID_STAT_DAMAGE_PER_SHELL",,"genicon_damage",,,
 "BeeSniper_ulti","sc/ui.sc","ulti_icon","BeeSniper",,3,,"skill","BeeSniperUlti",,,,"common","TID_MEGA_BLASH_ULTI","TID_STAT_DAMAGE_PER_SHELL",,"genicon_damage",,,
-"BeeSniper_unique","sc/characters.sc","icon_sp_byron_1","BeeSniper",,4,,"aoe_dot",,200,,,"common","TID_SPEC_ABI_SANDSTORM_DOT",,,"genicon_health",,,
-"BeeSniper_unique_2","sc/characters.sc","icon_sp_byron_2","BeeSniper","true",4,,"aoe_dot",,-300,,,"common","TID_SPEC_ABI_SANDSTORM_HOT",,,"genicon_health",,,
+"BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"aoe_dot",,200,,,"common","TID_SPEC_ABI_SANDSTORM_DOT",,,"genicon_health",,,
+"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper","true",4,,"aoe_dot",,-300,,,"common","TID_SPEC_ABI_SANDSTORM_HOT",,,"genicon_health",,,
