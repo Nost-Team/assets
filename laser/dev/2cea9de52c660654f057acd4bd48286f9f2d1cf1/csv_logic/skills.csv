@@ -78,7 +78,7 @@
 "ArcadeWeapon","Attack","true","true","true",50,650,,30,,1500,3,340,100,18,3,1,,"true",,,,,,,,,"ArcadeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","arcade_def_atk",,,,,,,
 "ArcadeUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"ArcadeUltiProjectile","DamageBooster",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","button_mine",,"arcade_def_ulti_atk",,,,,,
 "SandstormWeapon","Attack","true","true","true",250,150,,18,,1800,3,900,100,80,4,3,,"true",,,,,,,,,"SandstormProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","poco_def_atk_direct",,,,,,,
-"BeeSniperWeapon","Attack","true","true","true",250,150,,22,,1500,3,280,100,,7,6,,"true",,,,,,,,,"BlowerProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,
+"BeeSniperWeapon","Attack","true","true","true",250,150,,22,,1500,3,280,100,90,,6,,"true",,,,,,,,,"BlowerProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,
 "BeeSniperUlti","Attack","true","true","true",250,150,,22,,,,1500,100,0,,1,,"true",,,,,,,,,"SnakeOilUltiProjectile",,,,,,"skillicon_dynamite_ulti",,,"sc/ui.sc","plasma_bomb_button","tnt_attack_ulti",,,,,,,
 "BossRaceBossRapidFire","Attack",,"true",,50,1850,750,60,,1250,3,1400,200,150,2,1,,"true",,,,,,,,,"RaidBossProjectileRed",,,,,,,,,"sc/ui.sc","rapid_fire_button","raid_boss_ranged_attack","bossrace_skill_warning",,,,,,
 "BossRaceBossCharge","Charge",,"true",,50,,750,50,,,,1400,,,,,,,130,2500,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"bossrace_skill_warning",,"bull_dude_ulti_loop",,"Rhinostep",,
