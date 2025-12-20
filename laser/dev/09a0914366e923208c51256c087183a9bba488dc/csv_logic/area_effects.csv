@@ -70,4 +70,4 @@
 "DamageBoost",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_area_active","arcade_def_ulti_area_loop",125,600000,1000,30,,"DamageBoost",,,,,,,,,,
 "DamageBoost_larger",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_areaBig_active","arcade_def_ulti_areaBig_loop",188,600000,1500,30,,"DamageBoost",,,,,,,,,,
 "BurnMainAttackWater","BurnMainAttack","sc/effects.sc",,,,"GroundHigh",,,"brock_004_starPower",,28,2900,300,,,"Dot",,,,,,,,,,
-SnakeOilUltiExplosion,,sc/effects.sc,,,,GroundHigh,,,byron_def_ulti_hit,,160,500,800,-1500,,Hot,,,,,,,,,,
+SnakeOilUltiExplosion,,sc/effects.sc,,,,GroundHigh,,,byron_def_ulti_hit,,160,500,800,1500,,Hot,,,,,,,,,,
