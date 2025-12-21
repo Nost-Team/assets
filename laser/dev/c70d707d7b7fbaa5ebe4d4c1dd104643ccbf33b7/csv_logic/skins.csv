@@ -101,7 +101,7 @@
 "MinigunDudeSummer","MinigunDudeSummer",,3,"HealstationDefault",,80,"TID_ROCKET_OLD_SKIN","TID_ROCKET_OLD_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"pam_summer_tex.pvr","pam_summer_tex.pvr","pam_summer_tex.pvr","pam_summer_tex.pvr"
 "Bull800","Bull800",,,,,80,"TID_BULL_800_SKIN","TID_BULL_800_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"b-800.pvr","b-800.pvr","b-800.pvr","b-800.pvr"
 "DeadMariachiOld","DeadMariachiOld",,3,,,80,"TID_SKIN_OLD_POCO","TID_SKIN_OLD_POCO_SHOP","TID_SKIN_INFO_FX",,"poco_old_tex.pvr","poco_old_tex.pvr","poco_old_tex.pvr","poco_old_tex.pvr"
-"BarkeepOld","BarkeepOld",,,,,80,"TID_BARKEEP_OLD_SKIN","TID_BARKEEP_OLD_SKIN_SHOP","TID_SKIN_INFO_FX",,"barley_old_tex.pvr","barley_old_tex.pvr","barley_old_tex.pvr","barley_old_tex.pvr"
+"BarkeepOld","BarkeepOld",11,,,,80,"TID_BARKEEP_OLD_SKIN","TID_BARKEEP_OLD_SKIN_SHOP","TID_SKIN_INFO_FX",,"barley_old_tex.pvr","barley_old_tex.pvr","barley_old_tex.pvr","barley_old_tex.pvr"
 "BoMecha","BoMecha",,3,,,300,"TID_BO_MECHA_SKIN","TID_BO_MECHA_SKIN_SHOP","TID_SKIN_INFO_ANIM_SOUND_FX_VOICE",,"bo_mecha_tex.png+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)","bo_mecha_tex.png","bo_mecha_tex.png+hue(masks/bo/bo_mecha_ammo_msk.png,205.115997)","bo_mecha_tex.png"
 "CrowMecha","CrowMecha",,3,,,300,"TID_CROW_MECHA_SKIN","TID_CROW_MECHA_SKIN_SHOP","TID_SKIN_INFO_ANIM_SOUND_FX_VOICE",,"crow_mecha_tex.png","crow_mecha_tex.png","crow_mecha_tex.png","crow_mecha_tex.png"
 "Cactusmecha","Cactusmecha",,3,,,150,"TID_SPIKE_ROBO_SKIN","TID_SPIKE_ROBO_SKIN_SHOP","TID_SKIN_INFO_ANIM_SOUND_FX",,"spike_mecha_tex.pvr","spike_mecha_tex.pvr","spike_mecha_tex.pvr","spike_mecha_tex.pvr"
