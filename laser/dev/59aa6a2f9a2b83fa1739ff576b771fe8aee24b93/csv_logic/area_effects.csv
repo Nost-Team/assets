@@ -75,7 +75,7 @@ RuffsAirStrikeExplosion,,sc/effects.sc,,,,GroundHigh,,,gadget_ruffs_airstrike_ex
 RuffsSupplySpawn,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,GroundHigh,ruffs_def_ulti_crate,,ruffs_def_ulti_beacon,,90,800,600,,,Effect,,,,,,,,true,,
 RuffsSupplyExplosion,,sc/effects.sc,,,,GroundHigh,,,gadget_primo_meteor,,118,100,700,,,Damage,,,,,150,250,,,,
 RuffsIncreaseHealth,,sc/effects.sc,heal_area_effect_blue,heal_area_effect_blue,heal_area_effect_red,GroundHigh,,,,,100,500,1000,,,IncreaseHealth,,,,,,,,,,
-RuffsUltiSpawner,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,GroundHigh,ruffs_def_ulti_crate,,ruffs_def_ulti_beacon,,90,800,600,,,Effect,,,,,,,,,,
+RuffsUltiSpawner,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,GroundHigh,ruffs_def_ulti_crate,,ruffs_def_ulti_beacon,,90,800,600,,,DelayedDamage,,,,,,,,,,
 RuffsThing,,sc/effects.sc,,,,GroundHigh,,,ruffs_def_item,,100,1,800,,1,BulletExplosion,,1,RuffsBuff,,,,,,,
 RuffShield,,sc/effects.sc,,,,GroundHigh,,,,,125,600000,500,15,20,ShieldBuff,,,,,,,,,,
 RuffsEpicDamage,,sc/effects.sc,,,,GroundHigh,,,,,100,1600,600,,800,DelayedDamage,,,,,150,,,,,
