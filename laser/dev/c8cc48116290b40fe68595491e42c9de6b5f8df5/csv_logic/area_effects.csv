@@ -79,7 +79,7 @@ RuffsUltiSpawner,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_tar
 RuffsThing,,sc/effects.sc,,,,GroundHigh,,,ruffs_def_item,,100,1,800,,1,BulletExplosion,,1,RuffsBuff,,,,,,,
 RuffShield,,sc/effects.sc,,,,GroundHigh,,,,,125,600000,500,15,20,ShieldBuff,,,,,,,,,,
 RuffsEpicDamage,,sc/effects.sc,,,,GroundHigh,,,,,100,1600,600,,800,DelayedDamage,,,,,150,,,,,
-RuffsUltiBuffef,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,GroundHigh,ruffs_def_ulti_crate,,ruffs_def_ulti_beacon,,90,800,600,,1,Effect,,6,DamageAndSpeed,,,,,,,
+RuffsUltiSpawner,,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,,GroundHigh,ruffs_def_ulti_crate,ruffs_def_ulti_crate_red,,ruffs_def_ulti_beacon,,,,90,800,600,,,1,Pushback,,6,DamageAndSpeed,,,,,-150,,,,,,,,,,,,
 BlackHolexplosion,,sc/effects.sc,range450_blue,range450_blue,range450_red,GroundHigh,,,blackhole_ulti_damage,,100,1400,450,,1,BulletExplosion,,6,DamageAndSpeed,,,,,,,
 RuffsAirStrikeExplosion,,sc/effects.sc,,,,GroundHigh,,,gadget_ruffs_airstrike_explosion,,85,700,500,,,Damage,,,,,150,250,,,,
 RuffsSupplyExplosion,,sc/effects.sc,,,,GroundHigh,,,,,100,1600,600,,1,DelayedDamage,,6,DamageAndSpeed,,150,,,,,
