@@ -79,5 +79,5 @@ RuffsUltiSpawner,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_tar
 RuffsThing,,sc/effects.sc,,,,GroundHigh,,,ruffs_def_item,,100,1,800,,1,BulletExplosion,,1,RuffsBuff,,,,,,,
 RuffShield,,sc/effects.sc,,,,GroundHigh,,,,,125,600000,500,15,20,ShieldBuff,,,,,,,,,,
 RuffsEpicDamage,,sc/effects.sc,,,,GroundHigh,,,,,100,1600,600,,800,DelayedDamage,,,,,150,,,,,
-"RuffsUltiBuffef",,"sc/effects_brawler.sc","ruffs_def_ulti_target","ruffs_def_ulti_target","ruffs_def_ulti_target_red","GroundHigh",,,"blackhole_ulti_suck",,235,700,1200,,1,"Pushback",,6,BattleRoyaleBuff,,,,,,,
-BlackHolexplosion,,sc/effects.sc,range450_blue,range450_blue,range450_red,GroundHigh,,,blackhole_ulti_damage,,100,1400,450,,1,BulletExplosion,,6,BattleRoyaleBuff,,,,,,,
+"RuffsUltiBuffef",,"sc/effects_brawler.sc","ruffs_def_ulti_target","ruffs_def_ulti_target","ruffs_def_ulti_target_red","GroundHigh",,,"blackhole_ulti_suck",,235,700,1200,,1,"Pushback",,6,RuffsBuff,,-150,,,,,
+BlackHolexplosion,,sc/effects.sc,range450_blue,range450_blue,range450_red,GroundHigh,,,blackhole_ulti_damage,,100,1400,450,,1,BulletExplosion,,6,RuffsBuff,,,,,,,
