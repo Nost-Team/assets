@@ -28,4 +28,4 @@
 "ClusterMine",,"sc/effects_brawler.sc","tick_def_atk2","tick_def_atk2_red","shadow_normal_circle",,,800,2000,200,"ClusterBombExplosion2","true",,,,"Above"
 "MineMecha","Mine","sc/effects_brawler.sc","bo_002_mine_blue","bo_002_mine_red",,,,,,,"Bo_def_ulti2_area",,"bo_def_ulti2_spawn",,,"Above"
 "Present",,"sc/effects.sc","pickup_glow_green","pickup_glow_green",,"pickup_glow_gold","Blob_fx",,,4,,"true","bo_def_ulti2_spawn","sc3d/item_present_red.scw","sc3d/item_present_red.scw","Above"
-"RuffsBuff",,"sc/effects_brawler.sc",,,,"ruffs_def_ulti_item",,20,700,4,,"true","Spawn_plasmoid","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
+"RuffsBuff",,"sc/effects_brawler.sc",,,,"ruffs_def_ulti_item","Health_fx",20,700,4,,"true","Spawn_plasmoid","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
