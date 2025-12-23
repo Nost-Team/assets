@@ -9,7 +9,7 @@
 "Mine",,"sc/effects_brawler.sc","bo_def_mine_blue","bo_def_mine_red",,,,800,1150,3,"Bo_def_ulti2_area","true","bo_def_ulti2_spawn",,,"Above"
 "SupplyCrate",,"sc/effects.sc","red_pickup","red_pickup",,"pickup_glow_green",,,,,,,"Spawn_plasmoid",,,"Above"
 "BoxOfMines",,"sc/effects.sc","red_pickup","red_pickup",,"pickup_glow_green",,3,8,,,,"Spawn_plasmoid",,,"Above"
-"BattleRoyaleBuff",,"sc/effects.sc",,,,"pickup_glow_green","Health_fx",10,400,4,,"true","Spawn_buff","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
+"BattleRoyaleBuff",,"sc/effects.sc",,,,"ruffs_def_ulti_item","Health_fx",10,400,4,,"true","Spawn_buff","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
 "Money",,"sc/effects.sc","wanted_star_pickup","wanted_star_pickup",,"pickup_glow_gold","Blob_fx",1,,4,,"true","Spawn_plasmoid",,,"Above"
 "BoxOfBombs",,"sc/effects.sc","red_pickup","red_pickup",,"pickup_glow_green",,4,10,,,,"Spawn_plasmoid",,,"Above"
 "Bomb",,"sc/effects.sc","grenade_01","grenade_01_red","projectile_shadow",,,800,300,200,"SniperBombExplosion","true","Spawn_sniper_bomb",,,"Above"
