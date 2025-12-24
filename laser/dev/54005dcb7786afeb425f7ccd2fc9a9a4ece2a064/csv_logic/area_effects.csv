@@ -83,3 +83,4 @@ RuffsAirStrikeExplosion,,sc/effects.sc,,,,GroundHigh,,,gadget_ruffs_airstrike_ex
 "RuffsSupplyExplosion",,"sc/effects_brawler.sc","ruffs_def_ulti_target","ruffs_def_ulti_target","ruffs_def_ulti_target_red","GroundHigh",,,"blackhole_ulti_damage",,100,1400,450,,1,"BulletExplosion",,1,DamageAndSpeed,"true",50,,,,,
 RuffsUltiSpawner,,sc/effects_brawler.sc,ruffs_def_ulti_target,ruffs_def_ulti_target,ruffs_def_ulti_target_red,GroundHigh,ruffs_def_ulti_crate,,ruffs_def_ulti_beacon,,90,800,600,,,Effect,,1,DamageAndSpeed,,,,350,,,
 "ClusterrBombExplosion",,"sc/effects.sc",,,,"GroundHigh",,,"tick_def_atk1_explode",,100,700,800,,1,"BulletExplosion",,1,"DamageAndSpeed",,,,,,,
+"CaUltiExplosion",,"sc/effects.sc",,,,"GroundHigh",,,"spike_004_ulti_explosion",,170,4500,800,800,,"Dot",,,,,,,150,,,
