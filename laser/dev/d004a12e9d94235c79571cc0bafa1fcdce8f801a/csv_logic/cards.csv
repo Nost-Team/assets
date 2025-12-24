@@ -192,5 +192,5 @@
 "BeeSniper_hp","sc/ui.sc","health_icon","BeeSniper",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "BeeSniper_abi","sc/ui.sc","attack_icon","BeeSniper",,2,,"skill","BeeSniperWeapon",,,,"common","TID_LONG_RANGE_SHOTGUN","TID_STAT_DAMAGE_PER_SHELL",,"genicon_damage",,,
 "BeeSniper_ulti","sc/ui.sc","ulti_icon","BeeSniper",,3,,"skill","BeeSniperUlti",,,,"common","TID_MEGA_BLASH_ULTI","TID_STAT_DAMAGE_PER_SHELL",,"genicon_damage",,,
-"BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper","true",4,,"pet",,1,,,"common","TID_SPEC_ABI_PET",,,"genicon_health",,,
+"BeeSniper_unique","sc/characters.sc","icon_sp_8bit_1","BeeSniper","true",4,,"pet",,1,,,"common","TID_SPEC_ABI_PET",,,"genicon_health",,,
 "BeeSniper_unique_2","sc/characters.sc","icon_sp_8bit_1","BeeSniper","true",4,,"freeze",,60,350,,"common","TID_SPEC_ABI_FREEZE",,,"genicon_health",,,
