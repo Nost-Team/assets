@@ -65,7 +65,7 @@
 "RoboWarsBaseExplosion",,"sc/effects.sc","range400_blue","range400_blue","range400_red","GroundHigh",,,"brock_def_explosion_blue",,70,700,300,,,"Effect",,,,,,,,,,
 "RoboWarsBaseAreaIndicator",,"sc/effects.sc","range450_blue","range450_blue","range450_red","GroundHigh",,,,,650,600000,4000,,,"Effect",,,,,,,,,,
 "ClusterBombPetExplosion",,"sc/effects.sc",,,,"GroundHigh",,,"bo_def_ulti2_explosion",,133,700,600,99,,"Damage",,,,"true",120,,,,,
-"BurnUlti",,"sc/effects_brawler.sc","fireball_ground","fireball_ground","fireball_ground_red","GroundHigh",,,"barley_002_ulti",,55,3900,600,,,"Dot",,,,,,,,,,
+"BurnUlti",,"sc/effects_brawler.sc","fireball_ground","fireball_ground","fireball_ground_red","GroundHigh",,,"barley_002_ulti",,235,3900,1200,,,"Dot",,,,,,,,,,
 "SpikeExplosionLowHealth",,"sc/effects.sc",,,,"GroundHigh",,,,,100,700,300,,6,"BulletExplosion","CactusSpike",13,,,,,,,,
 "DamageBoost",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_area_active","arcade_def_ulti_area_loop",125,600000,1000,30,,"DamageBoost",,,,,,,,,,
 "DamageBoost_larger",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_areaBig_active","arcade_def_ulti_areaBig_loop",188,600000,1500,30,,"DamageBoost",,,,,,,,,,
