@@ -2,7 +2,7 @@
 "string","String","string","string","string","string","string","string","int","int","int","string","boolean","string","string","string","string"
 "Health",,"sc/effects.sc","soul","soul",,"pickup_glow_green","Health_fx",16000,,4,,"true","Spawn_plasmoid",,,"Above"
 "Speed",,"sc/effects.sc","red_pickup","red_pickup",,"pickup_glow_green","Health_fx",300,,4,,"true","Spawn_plasmoid",,,"Above"
-"DamageAndSpeed",,"sc/effects_brawler.sc",,,,"ruffs_def_ulti_item","power_up_bottle_sparkle",100,100,4,,"true","Spawn_buff","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
+"DamageAndSpeed",,"sc/effects_brawler.sc",,,,"ruffs_def_ulti_item","ruffs_def_ulti_item",100,100,4,,"true","Spawn_buff","sc3d/ruffs_buff_geo.scw","sc3d/ruffs_buff_geo.scw","Above"
 "Point",,"sc/effects.sc","blob_pickup","blob_pickup",,"pickup_glow","Blob_fx",,,4,,"true","Spawn_plasmoid",,,"Above"
 "Corpse",,"sc/effects.sc","soul","soul",,"pickup_glow_green","Health_fx",800,,4,,"true","Spawn_plasmoid",,,"Above"
 "OrbSpawner",,,,,,,,,,,,,"Spawn_plasmoid","sc3d/mine_gem_spawn.scw","sc3d/mine_gem_spawn.scw","GroundLow"
