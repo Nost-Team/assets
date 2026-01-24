@@ -69,10 +69,10 @@
 "ArtilleryTurretElf","ArtilleryTurretElf",,,,,,,,,,"penny_elf_tex.pvr","penny_elf_tex.pvr","penny_elf_tex.pvr","penny_elf_tex.pvr"
 "HookDefault","HookDefault",,,,,,,,,,"gene_tex.pvr","gene_tex.pvr","gene_tex.pvr","gene_tex.pvr"
 "TrickshotPopcorn","TrickshotPopcorn",,,,,150,"TID_SKIN_POPCORN_RICO","TID_SKIN_POPCORN_RICO_SHOP","TID_SKIN_INFO_FX",,"rico_popcorn_tex.pvr","rico_popcorn_tex.pvr","rico_popcorn_tex.pvr","rico_popcorn_tex.pvr"
-"GunSlingerHanbok","GunSlingerHanbok",2,4,,,150,"TID_SKIN_LUNAR_COLT","TID_SKIN_LUNAR_COLT_SHOP","TID_SKIN_INFO_FX",,"colt_hanbok_tex.pvr","colt_hanbok_tex.pvr","colt_hanbok_tex.pvr","colt_hanbok_tex.pvr"
+"GunSlingerHanbok","GunSlingerHanbok",,3,,,150,"TID_SKIN_LUNAR_COLT","TID_SKIN_LUNAR_COLT_SHOP","TID_SKIN_INFO_FX",,"colt_hanbok_tex.pvr","colt_hanbok_tex.pvr","colt_hanbok_tex.pvr","colt_hanbok_tex.pvr"
 "BarrelbotCny","BarrelbotCny",2,4,,,80,"TID_SKIN_DUMPLING_DARRYL","TID_SKIN_DUMPLING_DARRYL_SHOP","TID_SKIN_INFO_FX",,"darryl_cny_tex.pvr","darryl_cny_tex.pvr","darryl_cny_tex.pvr","darryl_cny_tex.pvr"
 "PocoValentine","PocoValentine",,,,,150,"TID_SKIN_VALENTINE_POCO","TID_SKIN_VALENTINE_POCO_SHOP","TID_SKIN_INFO_FX",,"poco_valentine_tex.pvr","poco_valentine_tex.pvr","poco_valentine_tex.pvr","poco_valentine_tex.pvr"
-"RocketGirlCny","RocketGirlCny",2,4,,,150,"TID_SKIN_LUNAR_BROCK","TID_SKIN_LUNAR_BROCK_SHOP","TID_SKIN_INFO_FX",,"brock_cny_tex.pvr","brock_cny_tex.pvr","brock_cny_tex.pvr","brock_cny_tex.pvr"
+"RocketGirlCny","RocketGirlCny",,3,,,150,"TID_SKIN_LUNAR_BROCK","TID_SKIN_LUNAR_BROCK_SHOP","TID_SKIN_INFO_FX",,"brock_cny_tex.pvr","brock_cny_tex.pvr","brock_cny_tex.pvr","brock_cny_tex.pvr"
 "WhirlwindDefault","WhirlwindDefault",,,,,,,,,,"carl_tex.pvr","carl_tex.pvr","carl_tex.pvr","carl_tex.pvr"
 "RoboWarsBox","RoboWarsBox",,,,,,,,,,,,,
 "UndertakerNightwitch","UndertakerNightwitch",,,,,150,"TID_UNDERTAKER_NIGHTWITCH_SKIN","TID_UNDERTAKER_NIGHTWITCH_SKIN_SHOP","TID_SKIN_INFO_FX",,"mortis_nightwitch_tex.pvr","mortis_nightwitch_tex.pvr","mortis_nightwitch_tex.pvr","mortis_nightwitch_tex.pvr"
