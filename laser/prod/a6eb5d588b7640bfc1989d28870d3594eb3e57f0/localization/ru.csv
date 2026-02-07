@@ -1292,10 +1292,6 @@
 "TID_BLOCKED_TEAM_READY","Нельзя показать в режиме готовности!"
 "TID_TEAM_CANNOT_INVITE_WHILE_READY","Нельзя пригласить в режиме готовности!"
 "TID_SHOTGUN_BANDITA_SKIN","ШЕЛЛИ-БАНДИТКА"
-"TID_PIPER_VALENTINE_SKIN","РОМАНТИЧНАЯ ПАЙПЕР"
-"TID_PIPER_VALENTINE_SKIN_SHOP","РОМАНТИЧНАЯ ПАЙПЕР"
-"TID_UNDERTAKER_DARK_SKIN","КОВАРНЫЙ МОРТИС"
-"TID_UNDERTAKER_DARK_SKIN_SHOP","КОВАРНЫЙ МОРТИС"
 "TID_SHUTDOWN_STARTED","Игра закроется на короткий технический перерыв через 5 минут."
 "TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_LONG","Прости, на сервере ведутся технические работы. Пожалуйста, попробуй снова через несколько часов."
 "TID_ERROR_POP_UP_SERVER_MAINTENANCE_ESTIMATED_TWO_HOURS","Прости, на сервере ведутся технические работы. Пожалуйста, попробуй снова через пару часов."
@@ -2614,7 +2610,7 @@
 "TID_SKIN_OLD_POCO_SHOP",РЕТРО ПОКО
 "TID_BULL_800_SKIN",Б-800
 "TID_BULL_800_SKIN_SHOP",Б-800
-"TID_UNDERTAKER_OLD_SKIN",РЕТРО МОРТИС
+"TID_UNDERTAKER_OLD_SKIN",РЕТРО МОТРИС
 "TID_UNDERTAKER_OLD_SKIN_SHOP",
 "TID_SKIN_OLD_COLT",РЕТРО КОЛЬТ
 "TID_SKIN_OLD_COLT_SHOP",РЕТРО КОЛЬТ
