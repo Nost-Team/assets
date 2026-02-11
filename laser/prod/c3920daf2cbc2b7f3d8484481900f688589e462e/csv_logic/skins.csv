@@ -96,7 +96,7 @@
 "WhirlwindRR","WhirlwindHotrod",,,,,80,"TID_CARL_RR_SKIN","TID_CARL_RR_SKIN_SHOP","TID_SKIN_INFO_FX",,"carl_hotrod_tex.pvr","carl_hotrod_tex.pvr","carl_hotrod_tex.pvr","carl_hotrod_tex.pvr"
 "TrickshotRetro","TrickshotRetro",,3,,,150,"TID_TRICKSHOT_RETRO_SKIN","TID_TRICKSHOT_RETRO_SKIN_SHOP","TID_SKIN_INFO_FX",,"rickoshea_tex.pvr","rickoshea_tex.pvr","rickoshea_tex.pvr","rickoshea_tex.pvr"
 "GunSlingerOG","GunSlingerOG",,3,,,150,"TID_SKIN_OLD_COLT","TID_SKIN_OLD_COLT_SHOP","TID_SKIN_INFO_FX",,"colt_old_tex.pvr","colt_old_tex.pvr","colt_old_tex.pvr","colt_old_tex.pvr"
-"UndertakerOG","UndertakerOG",,,,,150,"TID_UNDERTAKER_OLD_SKIN","TID_UNDERTAKER_OLD_SKIN_SHOP","TID_SKIN_INFO_ANIM",,"mortis_old_tex.pvr","mortis_old_tex.pvr","mortis_old_tex.pvr","mortis_old_tex.pvr"
+"UndertakerOG","UndertakerOG",,3,,,150,"TID_UNDERTAKER_OLD_SKIN","TID_UNDERTAKER_OLD_SKIN_SHOP","TID_SKIN_INFO_ANIM",,"mortis_old_tex.pvr","mortis_old_tex.pvr","mortis_old_tex.pvr","mortis_old_tex.pvr"
 "RocketGirlOG","RocketGirlOG",,,,,80,"TID_ROCKET_OLD_SKIN","TID_ROCKET_OLD_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"brock_old_tex.pvr","brock_old_tex.pvr","brock_old_tex.pvr","brock_old_tex.pvr"
 "MinigunDudeSummer","MinigunDudeSummer",,3,"HealstationDefault",,80,"TID_ROCKET_OLD_SKIN","TID_ROCKET_OLD_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"pam_summer_tex.pvr","pam_summer_tex.pvr","pam_summer_tex.pvr","pam_summer_tex.pvr"
 "Bull800","Bull800",,,,,80,"TID_BULL_800_SKIN","TID_BULL_800_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"b-800.pvr","b-800.pvr","b-800.pvr","b-800.pvr"
