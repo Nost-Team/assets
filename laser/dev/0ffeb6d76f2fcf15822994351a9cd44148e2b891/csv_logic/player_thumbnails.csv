@@ -60,7 +60,7 @@
 "base23",0,0,,,"sc/characters.sc","player_icon_barrelbot",57
 "base24",0,0,,,"sc/characters.sc","player_icon_poco",58
 "base25",0,0,,,"sc/characters.sc","player_icon_frank",59
-"base26",0,0,,,"sc/characters.sc","player_icon_bea",60
+"base26",0,0,,,"sc/characters.sc","player_icon_mrp",60
 "base27",0,0,,,"sc/characters.sc","player_icon_rosa",61
 "base28",0,0,,,"sc/characters.sc","player_icon_primo",62
 "base29",0,0,,,"sc/characters.sc","player_icon_bull",63
@@ -71,4 +71,5 @@
 "base34",0,0,,,"sc/characters.sc","player_icon_sandy",68
 "base35",0,0,,,"sc/characters.sc","player_icon_tick",69
 "base36",0,0,,,"sc/characters.sc","player_icon_emz",70
-"base37",0,0,,,"sc/characters.sc","player_icon_carl",71
+"base37",0,0,,,"sc/characters.sc","player_icon_max",72
+"base38",0,0,,,"sc/characters.sc","player_icon_carl",73
