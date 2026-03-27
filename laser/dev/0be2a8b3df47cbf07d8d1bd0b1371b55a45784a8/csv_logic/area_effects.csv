@@ -72,4 +72,4 @@ BarkeepUltiExplosion,,sc/effects.sc,toxic_area_effect_ulti_blue,toxic_area_effec
 "DamageBoost",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_area_active","arcade_def_ulti_area_loop",125,600000,1000,30,,"DamageBoost",,,,,,,,,,
 "DamageBoost_larger",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"arcade_def_ulti_areaBig_active","arcade_def_ulti_areaBig_loop",188,600000,1500,30,,"DamageBoost",,,,,,,,,,
 "BurnMainAttackWater","BurnMainAttack","sc/effects.sc",,,,"GroundHigh",,,"brock_004_starPower",,28,2900,300,,,"Dot",,,,,,,,,,
-RuffsSupplySpawn,,sc/effects.sc,,,,GroundHigh,,,ruffs_def_item,,100,1600,600,,800,BulletExplosion,,1,ClusterMine,,,,,,,
+"RuffsSupplySpawn",,"sc/effects.sc",,,,"GroundHigh",,,"ruffs_def_item",,100,1600,600,800,,"Damage",,1,ClusterMine,,,,,,,
