@@ -192,5 +192,5 @@
 "BeeSniper_hp","sc/ui.sc","health_icon","BeeSniper",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "BeeSniper_abi","sc/ui.sc","attack_icon","BeeSniper",,2,,"skill","BeeSniperWeapon",,,,"common","TID_BEE_SNIPER_WEAPON","TID_STAT_MAX_DAMAGE",,"genicon_damage",,,
 "BeeSniper_ulti","sc/ui.sc","ulti_icon","BeeSniper",,3,,"skill","BeeSniperUlti",,,,"common","TID_BEE_SNIPER_ULTI","TID_STAT_DAMAGE_PER_BOMB",,"genicon_damage",,,
-"BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"heal_others_main_attack",,40,,,"common","TID_SPEC_ABI_HEAL_RUFF_MAIN_ATTACK",,,"genicon_health",,,
-"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"speed_full_ammo",,120,,,"common","TID_SPEC_ABI_SPED_FULL_AMMO",,,"genicon_health",,,
+"BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper","true",4,,"resurrect",,1,,,"common","TID_ABI_RESURRECT",,,"genicon_health",,,
+"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"medikit",,40,1800,20000,"common","TID_ABI_MEDIKIT",,,"genicon_health",,,
