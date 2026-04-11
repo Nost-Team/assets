@@ -143,3 +143,5 @@
 "TrickshotDudeBazaar","TrickshotDudeBazaar",,3,,,150,"TID_SKIN_DARK_RICO","TID_SKIN_DARK_RICO_SHOP","TID_SKIN_INFO_NORMAL",,"rico_dark.pvr","rico_dark.pvr","rico_dark.pvr","rico_dark.pvr"
 "HookDarkDefault","HookDarkDefault",,,,,,,,,,"gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr"
 "TrickshotRetroRed","TrickshotRetroRed",,3,,,150,"TID_TRICKSHOT_RETRO_SKIN","TID_TRICKSHOT_RETRO_SKIN_SHOP","TID_SKIN_INFO_FX",,"rico_old_red.pvr","rico_old_red.pvr","rico_old_red.pvr","rico_old_red.pvr"
+"ArtilleryGalDarkBunny","ArtilleryGalDarkBunny",,3,"ArtilleryTurretBunny",,80,"TID_PENNY_BUNNY_SKIN","TID_PENNY_BUNNY_SKIN_SHOP","TID_SKIN_INFO_FX_TURRET",,"penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr"
+"ArtilleryTurretDarkBunny","ArtilleryTurretDarkBunny",,,,,,,,,,"penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr","penny_bunnydark_tex.pvr"
