@@ -142,3 +142,4 @@
 "HookDudeBazaar","HookDudeBazaar",,3,,,150,"TID_GENE_DARK_SKIN","TID_GENE_DARK_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr"
 "TrickshotDudeBazaar","TrickshotDudeBazaar",,3,,,150,"TID_SKIN_DARK_RICO","TID_SKIN_DARK_RICO_SHOP","TID_SKIN_INFO_NORMAL",,"rico_dark.pvr","rico_dark.pvr","rico_dark.pvr","rico_dark.pvr"
 "HookDarkDefault","HookDarkDefault",,,,,,,,,,"gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr","gene_dark_tex.pvr"
+"TrickshotRetroRed","TrickshotRetroRed",,3,,,150,"TID_TRICKSHOT_RETRO_SKIN","TID_TRICKSHOT_RETRO_SKIN_SHOP","TID_SKIN_INFO_FX",,"rico_old_red.pvr","rico_old_red.pvr","rico_old_red.pvr","rico_old_red.pvr"
