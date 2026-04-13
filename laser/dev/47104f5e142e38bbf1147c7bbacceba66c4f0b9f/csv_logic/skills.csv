@@ -84,3 +84,4 @@
 "BossRaceBossCharge","Charge",,"true",,50,,750,50,,,,1400,,,,,,,130,2500,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"bossrace_skill_warning",,"bull_dude_ulti_loop",,"Rhinostep",,
 "RuffsWeapon","Attack","true","true","true",200,150,,30,,1600,3,300,100,13,,2,,"true",,,,,,,,,"RuffsProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,
 RuffsUlti,Attack,true,true,true,250,150,,23,,,,1000,100,0,,1,,true,,,,,,,,,RuffsUltiProjectile,,,,,,skillicon_bigger_granade,,,sc/ui.sc,plasma_bomb_button,cactus_attack_ulti,,,,,,,
+TestUlti,Invisibility,true,,true,50,7000,,,,,,,,,,,,,,,,,,true,1200,,,,,BlackHoleUltiExplosion,,,,,,sc/ui.sc,button_sprint,,,,,,,,
