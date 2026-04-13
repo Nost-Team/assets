@@ -84,4 +84,4 @@
 "BossRaceBossCharge","Charge",,"true",,50,,750,50,,,,1400,,,,,,,130,2500,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"bossrace_skill_warning",,"bull_dude_ulti_loop",,"Rhinostep",,
 "HookDarkWeapon","Attack","true","true","true",250,150,,17,,2000,1,700,100,0,,1,,"true",,,,,,,,,"Gene003Projectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","gene_def_atk",,,,,,,
 TestWeapon,Attack,true,true,true,50,250,,15,,2100,3,,200,,,1,,true,,,,2,3,,,,ShamanUltiProjectile,BlackHolePet,,,,,skillicon_build_bigger_turret,,,sc/ui.sc,turret_button,shaman_ulti,,,,,,,
-TestUlti,Attack,true,true,true,50,250,,15,,,,,200,,,1,,true,,,,1,3,,,,ShamanUltiProjectile,DeadMariachi,,,,,skillicon_build_bigger_turret,,,sc/ui.sc,turret_button,shaman_ulti,,,,,,,
+"TestUlti","Attack","true","true",,250,150,,20,40,,,600,100,0,,,,"true",,,,,,,,,,,,,,,,,,"sc/ui.sc","rapid_fire_button","laser_attack",,,,,,,
