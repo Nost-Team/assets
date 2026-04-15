@@ -193,4 +193,4 @@
 "BeeSniper_abi","sc/ui.sc","attack_icon","BeeSniper",,2,,"skill","TestWeapon",,,,"common","TID_BEE_SNIPER_WEAPON","TID_STAT_DEMON_DAMAGE",,"genicon_damage",,,
 "BeeSniper_ulti","sc/ui.sc","ulti_icon","BeeSniper",,3,,"skill","TestUlti",,,,"common","TID_BEE_SNIPER_ULTI","TID_STAT_DAMAGE_DEMON_BOMB",,"genicon_damage",,,
 "BeeSniper_unique","sc/ui.sc","icon_eiuD","BeeSniper",,4,,"low_health_shield",,40,30,,"common","TID_SPEC_ABI_LW_HEALTH_SHIELD",,,"genicon_health",,,
-"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper","true",4,,"speed_full_ammo",,120,,,"common","TID_SPEC_ABI_SPED_FULL_AMMO",,,"genicon_health",,,
+"BeeSniper_unique_2","sc/ui.sc","icon_eiuD","BeeSniper","true",4,,"speed_full_ammo",,120,,,"common","TID_SPEC_ABI_SPE_FULL_AMMO",,,"genicon_health",,,
