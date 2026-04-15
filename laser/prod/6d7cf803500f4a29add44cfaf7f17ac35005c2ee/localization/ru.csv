@@ -23,6 +23,8 @@
 "TID_INBOX_TAB_1","ЛИЧНЫЕ"
 "TID_INBOX_NO_ENTRIES","НИЧЕГО НЕТ"
 "TID_INBOX_CAPTION_99","Сезон закончился."
+"TID_SPEC_ABI_LW_HEALTH_SHIELD",Я... СМЕРТЕН!?!?!
+"TID_SPEC_ABI_LW_HEALTH_SHIELD_DESC",Хефтис получает щит который снижает весь наносимый ему урон если остаётся очень мало здоровья
 "TID_INBOX_CAPTION_94","Вы получаете скин: <NAME>"
 "TID_INBOX_CAPTION_93","Вы получаете бойца: <NAME>"
 "TID_INBOX_CAPTION_92","<NAME>: вы получаете очки силы (<AMOUNT>) для этого бойца"
