@@ -2,6 +2,19 @@
 "string","string"
 "TID_DOUBLE_TOKEN_WEEKEND","SỰ KIỆN NHÂN ĐÔI THẺ"
 "TID_RANKS_ADDED_TITLE","Hạng Chiến binh Brawl mới"
+"TID_BE_SNIPER","HEFTIS"
+"TID_BE_SNIPER_SHORT_DESC","TEMPORARY BRAWLER"
+"TID_BE_SNIPER_DESC",Heftis is an Egyptian demon of destruction who entered the arena through Tara's portal. He is renowned for his strength and cunning. This time we must get rid of him once and for all.
+"TID_BEE_SNIPER_WEAPON",HURRICANE OF CHANGE
+"TID_BEE_SNIPER_WEAPON_DESC",Watch out! Heftis summons a hurricane directly at you. He restores health on impact.
+"TID_BEE_SNIPER_ULTI",EMPEROR OF SHADOWS
+"TID_BEE_SNIPER_ULTI_DESC",Heftis has long been famous for his magical abilities and the creation of his clones that attack enemies is one of them
+"TID_STAT_DEMON_DAMAGE",Hurricane damage
+"TID_STAT_DAMAGE_DEMON_BOMB",Shadow damage
+"TID_UNDERWORLD_BO_SKIN","UNDERWORLD BO"
+"TID_UNDERWORLD_BO_SKIN_SHOP","UNDERWORLD\nBO"
+"TID_SPEC_ABI_LW_HEALTH_SHIELD",I... AM MORTAL!?!?!
+"TID_SPEC_ABI_LW_HEALTH_SHIELD_DESC",Heftis gains a shield that reduces all damage dealt to him when his health is very low.
 "TID_RANKS_ADDED_DESC","Chúng tôi đã bổ sung Hạng 21-35 cho toàn bộ Chiến binh Brawl.\n\nBạn đã nhận được <cff00ff><STARPOINTS></c> Điểm Sao và <TOKENS> Thẻ từ Chiến binh Brawl đạt các Hạng này"
 "TID_SKINS_TITLE","TRANG PHỤC"
 "TID_SKINS_BUTTON_LABEL","TRANG PHỤC"
