@@ -90,6 +90,15 @@
 "TID_PLAYER_INFO_REMOVE_FRIEND","Удалить из списка друзей"
 "TID_PLAYER_INFO_FRIEND_REQUEST_SENT","Предложение отправлено"
 "TID_PLAYER_INFO_IS_YOUR_FRIEND","друг\nв игре"
+"TID_BE_SNIPER","ХЕФТИС"
+"TID_BEE_SNIPER_SHORT_DESC","ВРЕМЕННЫЙ БОЕЦ"
+"TID_BEE_SNIPER_DESC",Хефтис — египетский демон разрушения который пробрался на арену благодаря порталу Тары. Очень славиться своей силой и хитростью. На этот раз нам предстоит избавиться от него раз и навсегда
+"TID_BEE_SHIPER_WEAPON",УРАГАН ПЕРЕМЕН
+"TID_BEE_SHIPER_WEAPON_DESC",Берегись! Хефтис призывает ураган прямо на вас! При попадании восстанавливая себе здоровье
+"TID_BEE_SHIPER_ULTI",ИМПЕРАТОР ТЕНЕЙ
+"TID_BEE_SHIPER_ULTI_DESC",Хефтис давно славится своими магическими способностями и созданием своих клонов которые атакуют врагов
+"TID_UNDERWORLD_BO_SKIN","ДЕМОН БО"
+"TID_UNDERWORLD_BO_SKIN_SHOP","ДЕМОН\nБО"
 "TID_POWER_POINTS","ОЧКИ СИЛЫ"
 "TID_HERO_INFO_LEVEL","СИЛА"
 "TID_HERO_INFO_RANK","РАНГ"
