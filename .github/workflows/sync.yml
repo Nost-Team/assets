@@ -88,6 +88,7 @@ jobs:
           for dir in *; do
             if [ -d "$dir" ]; then
               svc_name=${dir#assets-}
+              rm -rf "../../$svc_name"
               mkdir -p "../../$svc_name"
               cp -r "$dir"/. "../../$svc_name/"
             fi
