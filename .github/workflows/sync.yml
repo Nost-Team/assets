@@ -1,0 +1,50 @@
+name: Sync Assets
+
+on:
+  workflow_dispatch:
+    inputs:
+      service:
+        description: 'What do you want to sync?'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - laser
+
+jobs:
+  setup:
+    name: Setup
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - id: set-matrix
+        name: Generate Matrix Configuration
+        run: |
+          CHOICE="${{ github.event.inputs.service }}"
+          if [ "$CHOICE" = "all" ]; then
+            SERVICES_JSON=$(find . -maxdepth 1 -type d ! -name ".*" ! -name "." ! -name "nost-connect" | sed 's|^\./||' | jq -R . | jq -s -c .)
+            echo "matrix=$SERVICES_JSON" >> $GITHUB_OUTPUT
+          else
+            echo "matrix=[\"$CHOICE\"]" >> $GITHUB_OUTPUT
+          fi
+
+  process-assets:
+    name: Sync ${{ matrix.service }}
+    needs: setup
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        service: ${{ fromJson(needs.setup.outputs.matrix) }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Process assets for ${{ matrix.service }}
+        run: cd "${{ matrix.service }}" && chmod +x ./sync.sh && ./sync.sh
