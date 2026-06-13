@@ -76,7 +76,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Download all processed assets
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v8
         with:
           pattern: assets-*
           path: .github/temp-assets
