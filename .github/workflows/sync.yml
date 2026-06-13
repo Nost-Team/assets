@@ -62,7 +62,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: assets-${{ matrix.service }}
-          path: ${{ matrix.service }}/
+          path: ./${{ matrix.service }}*/**
 
   deploy:
     name: Deploy to GitHub Pages
