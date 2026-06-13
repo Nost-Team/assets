@@ -81,19 +81,48 @@ jobs:
           pattern: assets-*
           path: .github/temp-assets
 
-      - name: Merge assets back to directories
+      - name: Merge assets back to directories (With Debugging)
         run: |
+          echo "[DEBUG] Current directory before merging:"
+          pwd
+
+          echo "[DEBUG] Repository structure right after checkout (before changes):"
+          echo "------------------------------------------------------------"
+          find . -maxdepth 3 ! -path '*/.*'
+          echo "------------------------------------------------------------"
+
           cd .github/temp-assets
+          echo "[DEBUG] What download-artifact actually extracted to temp-assets:"
+          echo "------------------------------------------------------------"
+          ls -la
+          echo "------------------------------------------------------------"
+
           for dir in assets-*; do
             if [ -d "$dir" ]; then
               svc_name=${dir#assets-}
+              echo "[DEBUG] Found artifact directory: '$dir' -> Service: '$svc_name'"
+              
+              echo "[DEBUG] Removing original directory from checkout: ../../$svc_name"
               rm -rf "../../$svc_name"
+              
+              echo "[DEBUG] Creating clean directory for service: ../../$svc_name"
               mkdir -p "../../$svc_name"
+              
+              echo "[DEBUG] Copying contents from '$dir' to '../../$svc_name/'"
               cp -r "$dir"/. "../../$svc_name/"
+            else
+              echo "[DEBUG] Warning: '$dir' is not a directory!"
             fi
           done
+
           cd ../..
+          echo "[DEBUG] Removing temporary folder temp-assets..."
           rm -rf .github/temp-assets
+
+          echo "[DEBUG] FINAL root repository structure to be deployed to GitHub Pages:"
+          echo "------------------------------------------------------------"
+          find . -maxdepth 4 ! -path '*/.*'
+          echo "------------------------------------------------------------"
 
       - name: Disable Jekyll processing
         run: touch .nojekyll
