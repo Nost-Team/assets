@@ -1,4 +1,4 @@
-name: Sync Assets
+name: Sync and Deploy Assets
 
 on:
   workflow_dispatch:
@@ -11,6 +11,15 @@ on:
         options:
           - all
           - laser
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   setup:
@@ -48,3 +57,55 @@ jobs:
 
       - name: Process assets for ${{ matrix.service }}
         run: cd "${{ matrix.service }}" && chmod +x ./sync.sh && ./sync.sh
+
+      - name: Upload processed service assets
+        uses: actions/upload-artifact@v7
+        with:
+          name: assets-${{ matrix.service }}
+          path: ${{ matrix.service }}/
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: process-assets
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Download all processed assets
+        uses: actions/download-artifact@v3
+        with:
+          pattern: assets-*
+          path: .github/temp-assets
+
+      - name: Merge assets back to directories
+        run: |
+          cd .github/temp-assets
+          for dir in assets-*; do
+            if [ -d "$dir" ]; then
+              svc_name=${dir#assets-}
+              echo "Merging $dir back to root/$svc_name..."
+              mkdir -p "../../$svc_name"
+              cp -r "$dir"/. "../../$svc_name/"
+            fi
+          done
+          cd ../..
+          rm -rf .github/temp-assets
+
+      - name: Disable Jekyll processing
+        run: touch .nojekyll
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
