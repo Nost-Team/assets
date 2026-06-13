@@ -84,7 +84,6 @@ jobs:
       - name: Merge assets back to directories
         run: |
           cd .github/temp-assets
-          tree
           for dir in *; do
             if [ -d "$dir" ]; then
               svc_name=${dir#assets-}
