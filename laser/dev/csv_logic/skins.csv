@@ -152,3 +152,4 @@
 "BullDudeOx","BullDudeOx",,3,,,150,"TID_BULL_OX_SKIN","TID_BULL_OX_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"bull_ox_tex.pvr","bull_ox_tex.pvr","bull_ox_tex.pvr","bull_ox_tex.pvr"
 "GunSlingerFootball","GunSlingerFootball",,3,,,80,"TID_GUNSLINGER_FB_SKIN","TID_GUNSLINGER_FB_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"colt_footbrawl_america_tex.pvr","colt_footbrawl_america_tex.pvr","colt_footbrawl_america_tex.pvr","colt_footbrawl_america_tex.pvr"
 "LuchadorFootball","LuchadorFootball",,3,,,80,"TID_LUCHADOR_FB_SKIN","TID_LUCHADOR_FB_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"primo_football_tex.pvr","primo_football_tex.pvr","primo_football_tex.pvr","primo_football_tex.pvr"
+"HammerDudeDJ","HammerDudeDJ",,3,,,80,"TID_FRANK_CAVEMAN_SKIN","TID_FRANK_CAVEMAN_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"frank_dj_tex.pvr.pvr","frank_dj_tex.pvr.pvr","frank_dj_tex.pvr+value(masks/frank/frank_dj_coat_msk.png,0.200000)","frank_dj_tex.pvr+value(masks/frank/frank_dj_coat_msk.png,0.200000)"
