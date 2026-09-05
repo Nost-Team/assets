@@ -13,4 +13,4 @@
 "Cursedpirates","sc/background_cursedpirates.sc","bgr_cursedpirates","sc/ui.sc",,,,"PiratMusic","true"
 "PSG","sc/background_psg.sc","bgr_psg","sc/ui.sc",,,,"PSGMusic","true"
 "Phoenix","sc/background_phoenix.sc","bgr_phoenix","sc/ui.sc",,,,"PhoenixMusic","true"
-"StarrForce","sc/background_ox.sc","bgr_ox",,,,"CosmoMusic","true"
+"StarrForce","sc/background_ox.sc","bgr_ox","sc/ui.sc",,,,"CosmoMusic","true"
