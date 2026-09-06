@@ -164,3 +164,5 @@
 "BarrelBotFootball","BarrelBotFootball",,3,,,80,"TID_SKIN_FB_DARRYL","TID_SKIN_FB_DARRYL_SHOP","TID_SKIN_INFO_FX",,"darryl_fb_tex.pvr","darryl_fb_tex.pvr","darryl_fb_tex.pvr","darryl_fb_tex.pvr"
 "TntDudeFootball","TntDudeFootball",,3,,,150,"TID_SKIN_FB_DYNAMIKE","TID_SKIN_FB_DYNAMIKE_SHOP","TID_SKIN_INFO_FX",,"dynamike_coach_tex.pvr","dynamike_coach_tex.pvr","dynamike_coach_tex.pvr","dynamike_coach_tex.pvr"
 "SniperValentines","SniperValentines",,3,,,150,"TID_PIPER_V_SKIN","TID_PIPER_V_SKIN_SHOP","TID_SKIN_INFO_NORMAL",,"piper_valentines_tex.pvr","piper_valentines_tex.pvr","piper_valentines_tex.pvr","piper_valentines_tex.pvr"
+"ArtilleryGalSmo","ArtilleryGalSmo",,3,"ArtilleryTurretSmo",,80,"TID_PENNY_SMO_SKIN","TID_PENNY_SMO_SKIN_SHOP","TID_SKIN_INFO_FX_TURRET",,"penny_smuggler_tex.pvr","penny_smuggler_tex.pvr","penny_smuggler_tex.pvr","penny_smuggler_tex.pvr"
+"ArtilleryTurretSmo","ArtilleryTurretSmo",,,,,,,,,,"penny_smuggler_tex.pvr","penny_smuggler_tex.pvr","penny_smuggler_tex.pvr","penny_smuggler_tex.pvr"
