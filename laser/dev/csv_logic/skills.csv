@@ -13,7 +13,7 @@
 "CactusWeapon","Attack","true","true","true",250,150,,23,,2000,3,480,100,,,1,,"true",,,,,,,,,"CactusProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","cactus_attack",,,,,,,
 "CactusUlti","Attack","true","true","true",250,150,,23,,,,400,100,0,,1,,"true",,,,,,,,,"CactusUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","cactus_attack_ulti",,,,,,,
 "BarkeepWeapon","Attack","true","true","true",250,150,,22,,2000,3,680,100,0,,1,,"true",,,,,,,,,"BarkeepProjectile",,,,,,,,,"sc/ui.sc","plasma_bomb_button","barkeep_attack",,,,,,,
-"BarkeepUlti","Attack","true","true","true",250,1050,,28,,,,680,200,100,,1,,"true",,,,,,,,,"BarkeepUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","barkeep_attack_ulti",,,,,,,
+"BarkeepUlti","Attack","true","true","true",250,1850,,25,,,,1040,200,210,,1,,"true",,,,,,,,,"BarkeepUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","barkeep_attack_ulti",,,,,,,
 "MechanicWeapon","Attack","true","true","true",250,150,,27,,1800,3,820,100,0,,1,,"true",,,,,,,,,"MechanicProjectile1",,,,,,,,,"sc/ui.sc","rapid_fire_button","mechanic_attack",,,,,,,
 "MechanicUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"MechanicUltiProjectile","MechanicTurret",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","turret_button","mechanic_ulti",,,,,,,
 "ShamanWeapon","Attack","true","true","true",250,150,,18,,1250,3,740,100,0,,1,,"true",,,,,,,,,"ShamanProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","shaman_attack",,,,,,,
