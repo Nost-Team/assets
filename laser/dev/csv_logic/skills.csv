@@ -7,7 +7,7 @@
 "BullDudeWeapon","Attack","true","true","true",250,150,,16,,1600,3,400,100,90,,5,,"true",,,,,,,,,"BullDudeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,
 "BullDudeUlti","Charge",,"true","true",50,,,33,,,,800,,,,,,,130,1800,1,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"bull_dude_ulti",,"bull_dude_ulti_loop",,"Rhinostep",,
 "RocketGirlWeapon","Attack","true","true","true",250,150,,30,,2100,3,1100,100,,,1,,"true",,,,,,,,,"RocketGirlProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","brock_def_atk",,,,,,,
-"RocketGirlUlti","Attack","true","true","true",250,1850,,25,,,,1040,200,210,,1,,"true",,,,,,,,,"RocketGirlUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","brock_def_ulti",,,,,,,
+"RocketGirlUlti","Attack","true","true","true",250,1050,,28,,,,680,200,100,,1,,"true",,,,,,,,,"RocketGirlUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","brock_def_ulti",,,,,,,
 "TrickshotDudeWeapon","Attack","true","true","true",50,800,,29,,1200,3,320,150,15,1,1,,"true",,,,,,,,,"TrickshotDudeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","rico_def_atk",,,,,,,
 "TrickshotDudeUlti","Attack","true","true","true",50,1250,,40,,,,320,100,20,1,1,,"true",,,,,,,,,"TrickshotDudeUltiProjectile",,,,,,"skillicon_bullet_storm",,,"sc/ui.sc","rapid_fire_button","rico_def_ulti",,,,,,,
 "CactusWeapon","Attack","true","true","true",250,150,,23,,2000,3,480,100,,,1,,"true",,,,,,,,,"CactusProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","cactus_attack",,,,,,,
