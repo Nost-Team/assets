@@ -7,8 +7,6 @@
 "TID_SKINS_BUTTON_LABEL","СКИНЫ"
 "TID_SKIN_PREVIEW","ПРЕДПРОСМОТР СКИНА"
 "TID_DEFAULT_SKIN","<HERO>: СТАНДАРТНЫЙ СКИН"
-"TID_STAT_DEMON_DAMAGE",УРОН ОТ УРАГАНА
-"TID_STAT_DAMAGE_DEMON_BOMB",УРОН ОТ ТЕНИ
 "TID_HERO_LVL_UP_MATERIAL","монеты"
 "TID_TOKENS","жетоны"
 "TID_FIRST_WINS","звёздные жетоны"
@@ -23,8 +21,6 @@
 "TID_INBOX_TAB_1","ЛИЧНЫЕ"
 "TID_INBOX_NO_ENTRIES","НИЧЕГО НЕТ"
 "TID_INBOX_CAPTION_99","Сезон закончился."
-"TID_SPEC_ABI_LW_HEALTH_SHIELD",Я... СМЕРТЕН!?!?!
-"TID_SPEC_ABI_LW_HEALTH_SHIELD_DESC",Хефтис получает щит который снижает весь наносимый ему урон если остаётся очень мало здоровья
 "TID_INBOX_CAPTION_94","Вы получаете скин: <NAME>"
 "TID_INBOX_CAPTION_93","Вы получаете бойца: <NAME>"
 "TID_INBOX_CAPTION_92","<NAME>: вы получаете очки силы (<AMOUNT>) для этого бойца"
@@ -94,15 +90,6 @@
 "TID_PLAYER_INFO_REMOVE_FRIEND","Удалить из списка друзей"
 "TID_PLAYER_INFO_FRIEND_REQUEST_SENT","Предложение отправлено"
 "TID_PLAYER_INFO_IS_YOUR_FRIEND","друг\nв игре"
-"TID_BE_SNIPER","ХЕФТИС"
-"TID_BE_SNIPER_SHORT_DESC","ВРЕМЕННЫЙ БОЕЦ"
-"TID_BE_SNIPER_DESC","Хефтис — египетский демон разрушения который пробрался на арену благодаря порталу Тары. Очень славиться своей силой и хитростью. На этот раз нам предстоит избавиться от него раз и навсегда"
-"TID_BEE_SNIPER_WEAPON","УРАГАН ПЕРЕМЕН"
-"TID_BEE_SNIPER_WEAPON_DESC","Берегись! Хефтис призывает ураган прямо на вас! При попадании восстанавливая себе здоровье"
-"TID_BEE_SNIPER_ULTI","ИМПЕРАТОР ТЕНЕЙ"
-"TID_BEE_SNIPER_ULTI_DESC","Хефтис давно славится своими магическими способностями и созданием своих клонов которые атакуют врагов"
-"TID_UNDERWORLD_BO_SKIN","ДЕМОН БО"
-"TID_UNDERWORLD_BO_SKIN_SHOP","ДЕМОН\nБО"
 "TID_POWER_POINTS","ОЧКИ СИЛЫ"
 "TID_HERO_INFO_LEVEL","СИЛА"
 "TID_HERO_INFO_RANK","РАНГ"
@@ -274,12 +261,12 @@
 "TID_TIME_MINS"," м."
 "TID_TIME_SECS"," с."
 "TID_MATCHMAKING_TIME","Время до начала: <TIME>"
-"TID_SUPERCELL_ID_TITLE","Supercell ID"
+"TID_SUPERCELL_ID_TITLE","Nost Connect"
 "TID_SUPERCELL_ID_BUTTON_CONNECTED","Подключено"
 "TID_SUPERCELL_ID_BUTTON_DISCONNECTED","Подключение"
 "TID_SUPERCELL_ID_LOGIN_BUTTON","Вход"
 "TID_SUPERCELL_ID_NEW_GAME_BUTTON","Играть без подключения"
-"TID_CANNOT_SWITCH_TO_ACCOUNT_WITHOUT_SUPERCELL_ID","Хочешь загрузить другую игру с <number>-м уровнем опыта ? Для этого нужно войти в игру с Supercell ID."
+"TID_CANNOT_SWITCH_TO_ACCOUNT_WITHOUT_SUPERCELL_ID","Хочешь загрузить другую игру с <number>-м уровнем опыта ? Для этого нужно войти в игру с Nost Connect."
 "TID_ERROR_POP_UP_OUT_OF_SYNC_TITLE","Ошибка!"
 "TID_ERROR_POP_UP_OUT_OF_SYNC","Клиент и сервер не синхронизированы!"
 "TID_ERROR_POP_UP_OUT_OF_SYNC_BUTTON","Перезагрузить игру"
@@ -524,9 +511,9 @@
 "TID_HERO_TIME_UNTIL_RELEASE","Появится через <TIME>"
 "TID_HERO_LIST_COMING_UP","Узнай подробности после появления нового бойца"
 "TID_SKIN_INFO_TIME_UNTIL_RELEASE","Появится через <TIME>"
-"TID_SKIN_INFO_","Supercell ID: скин в подарок"
+"TID_SKIN_INFO_","Nost Connect: скин в подарок"
 "TID_SKIN_INFO_1","Скин первопроходца Brawl Stars!\n\nДля учётных записей, созданных до 2019 года."
-"TID_SKIN_INFO_2","Получи этот скин, подключившись к Supercell ID в настройках игры!"
+"TID_SKIN_INFO_2","Получи этот скин, подключившись к Nost Connect в настройках игры!"
 "TID_SKIN_INFO_3_TEASER","Скоро..."
 "TID_SKIN_INFO_3_AVAILABLE","\nМожно купить в течение ограниченного времени"
 "TID_SKIN_INFO_3_NOT_AVAILABLE","\nВ настоящее время купить невозможно"
@@ -538,7 +525,7 @@
 "TID_SKIN_REWARD_TITLE_1","СКИН В НАГРАДУ"
 "TID_SKIN_REWARD_INFO_1","Разблокирован новый скин! Спасибо за игру в Brawl Stars в 2018 году!"
 "TID_SKIN_REWARD_TITLE_2","СКИН В НАГРАДУ"
-"TID_SKIN_REWARD_INFO_2","В награду за подключение учётной записи к Supercell ID был разблокирован новый скин."
+"TID_SKIN_REWARD_INFO_2","В награду за подключение учётной записи к Nost Connect был разблокирован новый скин."
 "TID_SKIN_REWARD_OK","ЗАБРАТЬ"
 "TID_HERO_REWARD_TITLE_1","СООБЩЕНИЕ СЛУЖБЫ ПОДДЕРЖКИ"
 "TID_HERO_REWARD_INFO_1","Служба поддержки Brawl Stars дарит тебе нового бойца."
@@ -1801,7 +1788,7 @@
 "TID_BIND_TO_NEW_GOOGLE_SERVICE_ACCOUNT","Хочешь сохранить свою игру в этой учётной записи Google Play?"
 "TID_SHOWDOWN_END","СТОЛКНОВЕНИЕ!"
 "TID_SETTINGS_FIXES_JOYSTICK","ЗАБЛОКИРОВАТЬ ОБЛАСТЬ УПРАВЛЕНИЯ"
-"TID_SETTINGS_SC_ID","SUPERCELL ID"
+"TID_SETTINGS_SC_ID","NOST CONNECT"
 "TID_LANGUAGE_LOCALIZED_NAME","Русский"
 "TID_POPUP_CHANGE_LANGUAGE_TITLE","Изменить язык?"
 "TID_POPUP_CHANGE_LANGUAGE","Точно хочешь изменить язык?"
@@ -1850,7 +1837,7 @@
 "TID_SHOP_OFFER_PURCHASE_AD_NOT_AVAILABLE","Нет доступных видео. Загляни попозже!"
 "TID_SHOP_NOT_AVAILABLE","недоступно"
 "TID_UNDERTAKER_GREASER_SKIN_SHOP","РОКАБИЛЬЩИК\nМОРТИС"
-"TID_HINT_40","Подключись к Supercell ID в настройках, чтобы защитить свою учётную запись и иметь возможность играть на разных устройствах. В придачу ты получишь бесплатный скин!"
+"TID_HINT_40","Подключись к Nost Connect в настройках, чтобы защитить свою учётную запись и иметь возможность играть на разных устройствах. В придачу ты получишь бесплатный скин!"
 "TID_GACHA_VIDEO_REWARD_RECEIVED","Добавлена дополнительная награда!"
 "TID_BUTTON_NAVI_SHOP","МАГАЗИН"
 "TID_BUTTON_NAVI_SOCIAL","ОБЩЕНИЕ"
@@ -2560,7 +2547,7 @@
 "TID_BALL_20A","Вверх тормашками"
 "TID_IAP_INFO_MORE_INFO_BTN","자세히보기"
 "TID_SANDSTORM","СЭНДИ"
-"TID_BEE_SNIPER","ПЧЕЛОСНАЙПЕР"
+"TID_BEE_SNIPER","ГЕНЕРАЛ ГАВС"
 "TID_HERO_BUNDLE_SANDSTORM","Замок Сэнди"
 "TID_HERO_BUNDLE_BEE_SNIPER","TODO"
 "TID_GAME_MODE_14","ПЕРЕХВАТ"
@@ -2573,7 +2560,7 @@
 "TID_BOSS_RACE_DOING_OK","Получается неплохо!"
 "TID_BOSS_RACE_DOING_BAD","Нанеси больше урона боссу!"
 "TID_SHOP_SCID_SKIN_OFFER_TITLE","ПОДКЛЮЧИСЬ К SUPERCELL ID И ПОЛУЧИ СКИН «<NAME>» <c<COLOR>>В ПОДАРОК!</c>"
-"TID_SHOP_SCID_SKIN_OFFER_DESC","SUPERCELL ID"
+"TID_SHOP_SCID_SKIN_OFFER_DESC","NOST CONNECT"
 "TID_SHOP_SCID_SKIN_OFFER_CLAIM","ПОДКЛЮЧИТЬ"
 "TID_GAME_MODE_15","ОДИНОКАЯ ЗВЕЗДА"
 "TID_GAME_MODE_15_DESC","Собирай звёзды, побеждая противников. С каждой победой награда за твою голову увеличивается на одну звезду, пока не достигнет семи звёзд.\n\nПо истечении времени побеждает игрок, набравший больше звёзд."
@@ -2653,4 +2640,55 @@
 "TID_SKIN_DARK_RICO_SHOP",СТРАЖ РИКО
 "TID_BARKEEP_OLD_SKIN",РЕТРО БАРЛИ
 "TID_BARKEEP_OLD_SKIN_SHOP",РЕТРО БАРЛИ
-"TID_BATTLE_ROYALE_CUSTOM","<cff9100>Ч<cff9b00>у<cffa500>д<cffaf00>о<cffb900>-<cffc300>о<cffcd00>с<cffd700>т<cffe100>р<cffeb00>о<cfff500>в<cfeff00>,<cfff500> <cffeb00>ч<cffe200>у<cffd800>д<cffcf00>о<cffc500> <cffbb00>о<cffb200>с<cffa800>т<cff9f00>р<cff9500>о<cfe8b00>в</c>"
+"TID_BEE_SNIPER_DESC",Генерал Гавс попал в прошлое на своем космическом корабле. Технологии будущего поражают, не правда ли?
+"TID_BEE_SNIPER_SHORT_DESC",ВРЕМЕННЫЙ БОЕЦ
+"TID_STAT_RUFFS_DAMAGE",Урон от пули
+"TID_STAT_DAMAGE_RUFFS_BOMB",Урон от авиапоставки
+"TID_BEE_SNIPER_WEAPON",ЛАЗЕРНАЯ ПАРА
+"TID_BEE_SNIPER_WEAPON_DESC",Лучи из лазерного ружья Гавса отражаются от стен и могут достать находящихся в укрытии врагов.
+"TID_BEE_SNIPER_ULTI",АВИАПОСТАВКА
+"TID_BEE_SNIPER_ULTI_DESC",Генерал Гавс заказывает авиапоставку прямо на вашу голову! После приземления остаётся бафф который придает Гавсу и другим ускорение с увеличенным уроном.
+"TID_ABI_RESURRECT",НИ ШАГУ НАЗАД!
+"TID_ABI_RESURRECT_DESC",Генерал Гавс после первого поражения воскресает
+"TID_ABI_MEDIKIT",ПРОСТО ЦАРАПИНЫ
+"TID_ABI_MEDIKIT_DESC",Когда у Генерала Гавса остаётся мало здоровья он восстанавливает  <c00cc00><VALUE2></c> очков здоровья каждые 20 секунд!
+"TID_RONIN_RUFFS_SKIN",РОНИН ГАВС
+"TID_RONIN_RUFFS_SKIN_SHOP",РОНИН ГАВС
+"TID_CHALLENGER_COLT_SKIN",ДУЭЛЯНТ КОЛЬТ
+"TID_CHALLENGER_COLT_SKIN_SHOP",ДУЭЛЯНТ КОЛЬТ
+"TID_SHOTGUN_FB_SKIN",PSG ШЕЛЛИ
+"TID_SHOTGUN_FB_SKIN_SHOP",PSG ШЕЛЛИ
+"TID_CARL_CAPTAIN_SKIN",КАПИТАН КАРЛ
+"TID_CARL_CAPTAIN_SKIN_SHOP",КАПИТАН КАРЛ
+"TID_POCO_PIRATE_SKIN",ПИРАТ ПОКО
+"TID_POCO_PIRATE_SKIN_SHOP",ПИРАТ ПОКО
+"TID_COLT_CORSAIR_SKIN",КОРСАР КОЛЬТ
+"TID_COLT_CORSAIR_SKIN_SHOP",КОРСАР КОЛЬТ
+"TID_SKIN_LASER_DARRYL",D4R-RY1
+"TID_SKIN_LASER_DARRYL_SHOP",D4R-RY1
+"TID_BULL_OX_SKIN",АСТРОБЫК БУЛЛ
+"TID_BULL_OX_SKIN_SHOP",АСТРОБЫК БУЛЛ
+"TID_CACTUS_LORD_SKIN",ТЁМНЫЙ ЛОРД СПАЙК
+"TID_CACTUS_LORD_SKIN_SHOP",ТЁМНЫЙ ЛОРД СПАЙК
+"TID_LUCHADOR_FB_SKIN",ФУТБОЛЬНЫЙ ПРИМО
+"TID_LUCHADOR_FB_SKIN_SHOP",ФУТБОЛЬНЫЙ ПРИМО
+"TID_GUNSLINGER_FB_SKIN",ФУТБОЛЬНЫЙ КОЛЬТ
+"TID_GUNSLINGER_FB_SKIN_SHOP"ФУТБОЛЬНЫЙ КОЛЬТ
+"TID_LEON_WOLF_SKIN",ОБОРОТЕНЬ ЛЕОН
+"TID_LEON_WOLF_SKIN_SHOP"ОБОРОТЕНЬ ЛЕОН
+"TID_BRAWLOWEEN_ROSA_SKIN",ХЕЛЛОУИНСКАЯ РОЗА
+"TID_BRAWLOWEEN_ROSA_SKIN_SHOP"ХЭЛЛОУИНСКАЯ РОЗА
+"TID_FRANK_DJ_SKIN",ДИДЖЕЙ ФРЕНК
+"TID_FRANK_DJ_SKIN_SHOP"ДИДЖЕЙ ФРЕНК
+"TID_SKIN_FB_DYNAMIKE",ТРЕНЕР МАЙК
+"TID_SKIN_FB_DYNAMIKE_SHOP"ТРЕНЕР МАЙК
+"TID_SKIN_FB_DARRYL",ТАЛИСМАН ДЕРРИЛ
+"TID_SKIN_FB_DARRYL_SHOP"ТАЛИСМАН ДЕРРИЛ
+"TID_PIPER_ROSE_SKIN",КАЛАВЕРА ПАЙПЕР
+"TID_PIPER_ROSE_SKIN_SHOP",КАЛАВЕРА ПАЙПЕР
+"TID_PIPER_V_SKIN",РОМАНТИЧНАЯ ПАЙПЕР
+"TID_PIPER_V_SKIN_SHOP"РОМАНТИЧНАЯ ПАЙПЕР
+"TID_UNDERWORLD_BO_SKIN",ДЕМОН БО
+"TID_UNDERWORLD_BO_SKIN_SHOP",ДЕМОН БО
+"TID_CHALLENGER_COLT_SKIN",ДУЭЛЯНТ КОЛЬТ
+"TID_CHALLENGER_COLT_SKIN_SHOP",ДУЭЛЯНТ КОЛЬТ
