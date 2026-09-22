@@ -36,7 +36,7 @@ jobs:
         run: |
           CHOICE="${{ github.event.inputs.service }}"
           if [ "$CHOICE" = "all" ]; then
-            SERVICES_JSON=$(find . -maxdepth 1 -type d ! -name ".*" ! -name "." ! -name "nost-connect" | sed 's|^\./||' | jq -R . | jq -s -c .)
+            SERVICES_JSON=$(find . -maxdepth 1 -type d ! -name ".*" ! -name "." ! -name "connect" | sed 's|^\./||' | jq -R . | jq -s -c .)
             echo "matrix=$SERVICES_JSON" >> $GITHUB_OUTPUT
           else
             echo "matrix=[\"$CHOICE\"]" >> $GITHUB_OUTPUT
