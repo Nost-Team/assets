@@ -87,7 +87,7 @@
 "Shaman_unique","sc/ui.sc","icon_eiuD","Shaman",,4,,"pet_lifesteal",,500,500,,"common","TID_SPEC_ABI_PET_LIFESTEAL",,,"genicon_health",,,
 "TntDude_unique","sc/ui.sc","icon_eiuD","TntDude",,4,,"pushback_self",,972,,,"common","TID_SPEC_ABI_PUSHBACK_SELF",,,"genicon_health",,,
 "Luchador_unique","sc/ui.sc","icon_eiuD","Luchador",,4,,"fire_dot_ulti",,1000,,,"common","TID_SPEC_ABI_FIRE_DOT_ULTI",,,"genicon_health",,,
-"Undertaker_unique","sc/ui.sc","icon_eiuD","Undertaker",,4,,"steal_souls",,1400,,,"common","TID_SPEC_ABI_STEAL_SOULS",,,"genicon_health",,,
+"Undertaker_unique","sc/ui.sc","icon_eiuD","Undertaker",,4,,"steal_souls",,1900,,,"common","TID_SPEC_ABI_STEAL_SOULS",,,"genicon_health",,,
 "Crow_unique","sc/ui.sc","icon_eiuD","Crow",,4,,"cripple",,13,,,"common","TID_SPEC_CRIPPLE",,,"genicon_health",,,
 "DeadMariachi_unique","sc/ui.sc","icon_eiuD","DeadMariachi",,4,,"heal_main_attack",,600,,,"common","TID_SPEC_HEAL_MAIN_ATTACK",,,"genicon_health",,,
 "BowDude_unique","sc/ui.sc","icon_eiuD","BowDude",,4,,"spot",,5,,,"common","TID_SPEC_ABI_SPOT",,,"genicon_health",,,
