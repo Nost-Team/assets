@@ -142,7 +142,7 @@
 "MinigunDude_unique_2","sc/ui.sc","icon_eiuD","MinigunDude",,4,,"aoe_dot",,500,,,"common","TID_SPEC_ABI_TURRET_AOE",,,"genicon_health",,,
 "Luchador_unique_2","sc/ui.sc","icon_eiuD","Luchador","true",4,,"speed_after_ulti",,220,100,,"common","TID_SPEC_ABI_SPEED_AFTER_ULTI",,,"genicon_health",,,
 "Ninja_unique_2","sc/ui.sc","icon_eiuD","Ninja",,4,,"heal_invisible",,800,,,"common","TID_SPEC_ABI_HOT_INVISIBLE",,,"genicon_health",,,
-"ArtilleryDude_unique_2","sc/ui.sc","icon_eiuD","ArtilleryDude","true",4,,"ulti_burn",,400,,,"common","TID_SPEC_ULTI_BURN",,,"genicon_health",,,
+"ArtilleryDude_unique_2","sc/ui.sc","icon_eiuD","ArtilleryDude",,4,,"ulti_burn",,400,,,"common","TID_SPEC_ULTI_BURN",,,"genicon_health",,,
 "Crow_unique_2","sc/ui.sc","icon_eiuD","Crow","true",4,,"prey_on_the_weak",,50,120,,"common","TID_SPEC_ABI_PREY_ON_THE_WEAK",,,"genicon_health",,,
 "DeadMariachi_unique_2","sc/ui.sc","icon_eiuD","DeadMariachi",,4,,"damage_super",,800,,,"common","TID_SPEC_DAMAGE_SUPER",,,"genicon_health",,,
 "Whirlwind_unique_2","sc/ui.sc","icon_eiuD","Whirlwind","true",4,,"ulti_defense",,60,40,,"common","TID_SPEC_ABI_WHIRLWIND_SHIELD",,,"genicon_health",,,
