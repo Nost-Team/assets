@@ -1,5 +1,5 @@
 {
-  "Enabled": false,
+  "Enabled": true,
   "ScFileName": "sc/supercell_id.sc",
   "Game": "nb-laser",
   "PreloadingEnabled": true,
