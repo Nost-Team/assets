@@ -58,7 +58,7 @@ BarkeepUltiExplosion,,sc/effects.sc,toxic_area_effect_ulti_blue,toxic_area_effec
 "ExplosionSpawn",,"sc/effects.sc","meteor_area_effect","meteor_area_effect","meteor_area_effect","Above","meteor_ball_animation",,"meteor_warning",,126,2500,800,,,"Effect",,,,,,,,"true",,
 "ClusterBombExplosion",,"sc/effects.sc",,,,"GroundHigh",,,"tick_def_atk1_explode",,100,700,800,,3,"BulletExplosion",,6,"ClusterMine",,,,,,,
 "ClusterBombExplosion2",,"sc/effects.sc",,,,"GroundHigh",,,"brock_def_ultiExp_blue",,100,700,500,99,,"Damage",,,,,,,,,,
-"Sandstorm",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"sandy_def_ulti_loop",,1000,12000,2000,,,"SmokeScreen",,,,,,,,,,
+"Sandstorm",,"sc/effects_brawler.sc",,,,"GroundHigh",,,"sandy_def_ulti_loop",,1000,9000,2000,,,"SmokeScreen",,,,,,,,,,
 "EventHealing",,"sc/effects.sc","healing_mushroom_area_effect_02","healing_mushroom_area_effect_02","healing_mushroom_area_effect_02","GroundHigh",,,,"mushroom_heal",125,5000,1000,-1000,,"Hot",,,,,,,,,,
 "HealingSpawn",,"sc/effects.sc","healing_mushroom_area_effect","healing_mushroom_area_effect","healing_mushroom_area_effect","GroundHigh",,,"healing_spawn",,125,2500,800,,,"Effect",,,,,,,,,,
 "RaidBossExplosion",,"sc/effects.sc","range450_blue","range450_blue","range450_red","GroundHigh",,,"raidboss_rocket_explosion",,185,700,1000,2000,,"Damage",,,,"true",150,250,,,,
