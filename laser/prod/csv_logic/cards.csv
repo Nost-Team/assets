@@ -136,7 +136,7 @@
 "Baseball_ulti","sc/ui.sc","ulti_icon","Baseball",,3,,"skill","BaseballUlti",,,,"common","TID_BASEBALL_ULTI","TID_STAT_DAMAGE_EACH_WAY",,"genicon_damage",,,
 "Baseball_unique","sc/ui.sc","icon_eiuD","Baseball",,4,,"speed_full_ammo",,100,,,"common","TID_SPEC_ABI_SPED_FULL_AMMO",,,"genicon_health",,,
 "ShotgunGirl_unique_2","sc/ui.sc","icon_eiuD","ShotgunGirl",,4,,"medikit",,40,1800,20000,"common","TID_SPEC_ABI_MEDIKIT",,,"genicon_health",,,
-"Shaman_unique_2","sc/ui.sc","icon_eiuD","Shaman","true",4,,"pet_attack_speed",,60,,,"common","TID_SPEC_ABI_PET_ATTACK_SPEED",,,"genicon_health",,,
+"Shaman_unique_2","sc/ui.sc","icon_eiuD","Shaman",,4,,"pet_attack_speed",,60,,,"common","TID_SPEC_ABI_PET_ATTACK_SPEED",,,"genicon_health",,,
 "BullDude_unique_2","sc/ui.sc","icon_eiuD","BullDude",,4,,"low_health_shield",,40,30,,"common","TID_SPEC_ABI_LOW_HEALTH_SHIELD",,,"genicon_health",,,
 "Gunslinger_unique_2","sc/ui.sc","icon_eiuD","Gunslinger",,4,,"attack_range",,3,,,"common","TID_SPEC_ABI_ATTACK_RANGE",,,"genicon_health",,,
 "MinigunDude_unique_2","sc/ui.sc","icon_eiuD","MinigunDude",,4,,"aoe_dot",,500,,,"common","TID_SPEC_ABI_TURRET_AOE",,,"genicon_health",,,
