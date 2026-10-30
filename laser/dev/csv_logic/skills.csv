@@ -87,3 +87,4 @@ RuffsUlti,Attack,true,true,true,250,150,,23,,,,1000,100,0,,1,,true,,,,,,,,,Ruffs
 "TestWeapon","Attack","true","true","true",50,150,,30,,1600,1,1000,100,,,,,"true",,,,,,,,,"Mortis003UltiProjectile",,,,,,"skillicon_powercharge",,,"sc/ui.sc","rapid_fire_button","cactus_attack_ulti",,,,,,,
 "TestUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,2,,,,"ShamanUltiProjectile","BlackHolePet3",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","turret_button","shaman_ulti",,,,,,,
 "SpeedyWeapon","Attack","true","true","true",50,450,,25,,1300,4,300,100,30,6,1,,"true",,,,,,,,,"SpeedyProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","colt_def_atk",,,,,,,
+"MummyWeapon","Attack","true","true","true",250,150,,20,,2100,3,500,100,80,5,5,,"true",,,,,,,,,"MummyProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","colt_def_atk",,,,,,,
