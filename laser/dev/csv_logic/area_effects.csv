@@ -79,3 +79,4 @@ BarkeepUltiExplosion,,sc/effects.sc,toxic_area_effect_ulti_blue,toxic_area_effec
 "RuffsSupplySpawn",,"sc/effects.sc",,,,"GroundHigh",,,"tick_def_atk1_explode",,100,700,800,,1,"BulletExplosion",,1,"DamageAndSpeed",,,,,,,
 "RuffHoleUltiExplosion",,"sc/effects.sc","range450_blue","range450_blue","range450_red","GroundHigh",,,"blackhole_ulti_damage",,225,700,1200,2000,700,"DelayedDamage",,,,"true",150,250,,,,
 "RuffHoleUltiSuck",,"sc/effects.sc","meteor_area_effect","meteor_area_effect","meteor_area_effect","GroundHigh",meteor_ball_animation,,"meteor_warning",,126,2500,800,,,"Pushback",,,,,-150,,,,,
+"SpeedyUltiArea",,"sc/effects_brawler.sc","max_def_ulti_area","max_def_ulti_area"," max_def_ulti_area_red","GroundHigh",,,"max_def_ulti_active",,1000,12000,2000,,,"SpeedBuff",,,,,,,,,,
