@@ -1,7 +1,7 @@
 "Name","FileName","ExportName","ParticleFileName","ParticleExportName","ParticleStyle","ParticleVariations","ThemeMusic","UseInLevelSelection"
 "string","string","string","string","string","string","int","string","boolean"
 "Default","sc/background_basic.sc","bgr","sc/ui.sc",,,,"MenuMusic","true"
-"Winter","sc/background_basic.sc","bgr","sc/ui.sc","particle_snow_","Snow",2,"Snow_brawl","true"
+"Winter","sc/background_snowtel.sc","bgr_snowtel","sc/ui.sc","particle_snow_","Snow",2,"Snow_brawl","true"
 "LNY","sc/background_lny.sc","bgr_cny",,,,,"Cnymenu_music","true"
 "CR","sc/background_basic.sc","bgr",,,,,"Cnymenu_music","true"
 "Easter","sc/background_brawlidays2021_fixed.sc","bgr_brawlidays2021",,,,,"Retropolis_menu","true"
