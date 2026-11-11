@@ -37,7 +37,7 @@
 "BlackHoleWeapon","Attack","true","true","true",250,150,,24,,2000,3,380,100,50,,3,,"true",,,,,,,,,"BlackHoleProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","blackhole_attack",,,,,,,
 "BlackHoleUlti","Attack","true","true","true",250,150,,20,,,,800,100,0,,1,,"true",,,,,,,,,"BlackHoleUltiProjectile",,,,,,"skillicon_bullet_storm",,,"sc/ui.sc","rapid_fire_button","blackhole_ulti",,,,,,,
 "BarrelBotWeapon","Attack","true","true","true",50,550,,18,,1800,3,280,250,80,,4,"true","true",,,,,,,,,"BarrelBotProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","darryl_def_atk",,,,,,,
-"BarrelBotUlti","Charge",,"true","true",50,,,21,,,,400,,,,,,,70,2400,7,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"barrel_bot_ulti",,"barrel_bot_ulti_loop",,"Barrelbot_step",,
+"BarrelBotUlti","Charge",,"true","true",50,,,70,,,,640,,,,,,,70,2400,7,,,,,"true",,,,,,,"skillicon_powercharge",,,"sc/ui.sc","charge_button",,"barrel_bot_ulti",,"barrel_bot_ulti_loop",,"Barrelbot_step",,
 "ArtilleryDudeWeapon","Attack","true","true","true",250,150,,27,,2000,3,840,100,0,,1,,"true",,,,,,,,,"ArtilleryDudeProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","penny_def_atk",,,,,,,
 "ArtilleryDudeUlti","Attack","true","true","true",50,250,,15,,,,,200,,,1,,"true",,,,1,1,,,,"ArtilleryDudeUltiProjectile","ArtilleryDudeTurret",,,,,"skillicon_build_bigger_turret",,,"sc/ui.sc","turret_button","artillery_dude_ulti",,,,,,,
 "Warp","Blink","true","true",,250,,,19,,,,,,,,,,,,,,,,,,,,,,,,"sc/ui.sc","item_icon_teleport",,,"sc/ui.sc","button_teleport",,,,,,,,
