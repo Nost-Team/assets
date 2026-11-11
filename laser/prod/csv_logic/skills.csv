@@ -57,7 +57,7 @@
 "BoneThrowerWeapon","Attack","true","true","true",250,150,,27,,2000,3,,100,0,,1,,"true",,,,,,,,,"BoneThrowerProjectile",,,,,,,,,"sc/ui.sc","plasma_bomb_button","bonethrower_attack",,,,,,,
 "BoneThrowerUlti","Attack","true","true","true",250,150,,27,,,,100,500,,,1,,"true",,,,,,,,,"BoneThrowerUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","bonethrower_ulti",,,,,,,
 "NinjaWeapon","Attack","true","true","true",50,450,,29,,1900,3,440,100,35,2,1,"true","true",,,,,,,,,"NinjaProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","ninja_attack",,,,,,,
-"NinjaUlti","Invisibility","true",,"true",50,7000,,,,,,,,,,,,,,,,,,"true",1200,,,,,,,,,,,"sc/ui.sc","button_sprint",,,,,,,,
+"NinjaUlti","Invisibility","true",,"true",50,7000,,,,,,,,,,,,,,,,,,"true",,,,,,,,,,,,"sc/ui.sc","button_sprint",,,,,,,,
 "RosaWeapon","Attack","true","true","true",50,800,,11,,1000,3,460,250,130,,3,"true","true",,,,,,,,,"RosaProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","rosa_def_atk",,,,,,,
 "RosaUlti","Shield","true",,"true",50,3000,,,,,,,70,,,,,,,,,,,,,,,,,,,,,,,"sc/ui.sc","button_sprint",,"rosa_def_ulti",,"rosa_def_ulti_loop",,,,
 "SandstormUlti","Attack","true","true","true",250,150,,22,,,,,100,0,,1,,"true",,,,,,,,,"SandstormUltiProjectile",,,,,,"skillicon_dynamite_ulti",,,"sc/ui.sc","plasma_bomb_button","tnt_attack_ulti",,,,,,,
