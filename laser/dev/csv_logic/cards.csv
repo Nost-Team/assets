@@ -198,5 +198,5 @@
 "Speedy_hp","sc/ui.sc","health_icon","Max",,1,,"hp",,,,,"common","TID_ARMOR","TID_ARMOR_STAT",,"genicon_health",,,
 "Speedy_abi","sc/ui.sc","attack_icon","Max",,2,,"skill","SpeedyWeapon",,,,"common","TID_BEE_SNIPER_WEAPON","TID_STAT_MAX_DAMAGE",,"genicon_damage",,,
 "Speedy_ulti","sc/ui.sc","ulti_icon","Max",,3,,"skill","SpeedyUlti",,,,"common","TID_BEE_SNIPER_ULTI","TID_STAT_DAMAGE_PER_BOMB",,"genicon_damage",,,
-"Speedy_unique","sc/ui.sc","icon_eiuD","Max",,4,,"speed_full_ammo",,7,1,,"common","TID_SPEC_ABI_SPED_FULL_AMMO",,,"genicon_health",,,
-"Speedy_unique_2","sc/ui.sc","icon_eiuD","Max",,4,,"speed_full_ammo",,20,1,,"common","TID_SPEC_ABI_SPED_FULL_AMMO",,,"genicon_health",,,
+"Speedy_unique","sc/ui.sc","icon_eiuD","Max",,4,,"steal_souls2",,50,12,,"common","TID_SPEC_ABI_STEAL_SOULS2",,,"genicon_health",,,
+"Speedy_unique_2","sc/ui.sc","icon_eiuD","Max",,4,,"barrel_defense",,70,25,,"common","TID_SPEC_ABI_BARREL_DEFENSE",,,"genicon_health",,,
