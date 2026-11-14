@@ -199,4 +199,4 @@
 "ShotgunTestGirl_abi","sc/ui.sc","attack_icon","ShotgunTestGirl",,2,,"skill","SpeedyWeapon",,,,"common","TID_SPEEDY_WEAPON","TID_STAT_DAMAGE_PER_SHOT",,"genicon_damage",,,
 "ShotgunTestGirl_ulti","sc/ui.sc","ulti_icon","ShotgunTestGirl",,3,,"skill","SpeedyUlti",,,,"common","TID_SPEEDY_ULTI","TID_SPEEDY_ULTI_STAT",,"genicon_damage",,,
 "ShotgunTestGirl_unique","sc/ui.sc","icon_eiuD","ShotgunTestGirl",,4,,"running_charges_ulti",,7,1,,"common","TID_SPEC_ABI_SPEEDY_1",,,"genicon_damage",,,
-"ShotgunTestGirl_unique_2","sc/ui.sc","icon_eiuD","ShotgunTestGirl",,4,,"running_charges_weapon",,8,1,,"common","TID_SPEC_ABI_SPEEDY_2",,,"genicon_damage",,,
+"ShotgunTestGirl_unique_2","sc/ui.sc","icon_eiuD","ShotgunTestGirl",,4,,"running_charges_weapon",,70,1,,"common","TID_SPEC_ABI_SPEEDY_2",,,"genicon_damage",,,
