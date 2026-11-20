@@ -98,7 +98,7 @@
 "DrillerUlti","Attack",,,"true","true",250,1000,500,,,,,,,,,1000,,,,,,,,,,,,,,,,"DrillerUltiArea","DrillerUltiShield",,,,,,"sc/ui.sc","button_sprint",,"driller_def_ulti_use",,"Dummy_effect",,,,,,,,
 "BlowerWeapon","Attack","true","true","true",,250,150,,25,,,,,1400,3,360,100,,7,5,,"true",,,,,,,,,"BlowerProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,,,,,
 "BlowerUlti","Attack","true","true","true",,250,150,,30,,,,,,,100,100,,7,5,,"true",,,,,,,,,"BlowerUltiProjectile",,,,,,"skillicon_megablast",,,"sc/ui.sc","rapid_fire_button","shelly_def_ulti",,,,,,,,,,,
-"ControllerWeapon","Attack","true","true","true",,500,150,,26,,,,,2000,3,700,100,50,,3,,"true",,,,,,,,,"ControllerProjectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,,,,,
+"ControllerWeapon","Attack","true","true","true",,500,150,,26,,,,,2000,3,700,100,50,,3,,"true",,,,,,,,,"Shelly003Projectile",,,,,,,,,"sc/ui.sc","rapid_fire_button","bull_def_atk",,,,,,,,,,,
 "ControllerUlti","Attack","true","true","true",,50,150,,10,,,,,,,2000,100,0,,1,"true","true",,,,,,,,,"ControllerUltiProjectile",,,,,,"skillicon_bullet_storm",,,"sc/ui.sc","rapid_fire_button","colt_def_ulti","Dummy_effect",,,,,,,,,,
 "WallyWeapon","Attack","true","true","true",,250,150,,15,,,,1,1700,3,940,100,30,,1,,"true",,,,,,,,,"WallyProjectile",,,,,,,,,"sc/ui.sc","plasma_bomb_button","sprout_def_atk",,,,,,,,,,,
 "WallyUlti","Attack","true","true","true",,250,150,,23,,,,1,,,,100,0,,1,,"true",,,,,,,,,"WallyUltiProjectile",,,,,,"skillicon_bigger_granade",,,"sc/ui.sc","plasma_bomb_button","sprout_def_ulti",,,,,,,,,,,
